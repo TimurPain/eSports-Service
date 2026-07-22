@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">eSport Service</string>
+    <string name="sales_icon">Sales</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="about_text">Про нас</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="logo_of_app_1">e</string>
+    <string name="logo_of_app_2">Sports</string>
+    <string name="logo_of_app_3">Services</string>
+    <string name="course_start_date">Срок обучения:</string>
+    <string name="course_level">Требования:</string>
+    <string name="course_desc">Этот курс поможет вам улучишить навыки игры в Clash Royale. Бывает трудно понять все механики игры, поэтому eSports Services хочет чтобы вы круто играли и достигали новых вершин. За весь курс вам будут помогать игроки, которые уже несколько лет посветили этой игре и получите много теоретического материала. В формате онлайн буду проводиться занятия по несколько часов каждый день.</string>
+    <string name="course_requirement">Требование:</string>
+    <string name="course_duration">Длительность курса:</string>
+    <string name="game">Игры</string>
+    <string name="price">Цена 18000 тенге</string>
+    <string name="new_courses">Появились новые курсы!</string>
+    <string name="to_come_in">Войти</string>
+    <string name="vk">https://m.vk.com/skillszz</string>
+    <string name="phone">Номер 87770472456</string>
+    <string name="description_app">Это мобильное приложение создавалась в целях развить киберспорт в СНГ и сделать многих людей профессиональными игроками.\nКиберспорт (также известен как «компьютерный спорт» или «электронный спорт», англ. esports) — командное или индивидуальное соревнование на основе компьютерных видеоигр. В России признан официальным видом спорта. Все киберспортивные дисциплины делятся на несколько основных классов, различаемых свойствами пространств, моделей, игровой задачей и развиваемыми игровыми навыками киберспортсменов: шутеры от первого лица, стратегии в реальном времени, спортивные симуляторы, автосимуляторы, авиасимуляторы, файтинги, командные ролевые игры с элементами тактико-стратегической игры и т.д.</string>
+    <string name="developer_app">Танырбергенов Т. А.\nСоздал мобильное приложение eSports Services.\nПо поводу проблем, багах и ошибках обращаться ко мне.\nВсе заказы проходят через меня.</string>
+    <string name="order">Отправьте скрин выбранных товаров, перейдите в раздел Контакты и свящитесь с сотрудником для покупки.</string>
+    <string name="news_category">Выберите новости по своей любимой игре!</string>
+    <string name="clash_royale">Clash Royale</string>
+    <string name="csgo">CSGO</string>
+    <string name="fortnite">Fortnite</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Авторизуйтесь</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="password">Пароль</string>
+    <string name="for_admin">Для админа</string>
+    <string name="for_clients">Для клентов</string>
+    <string name="to_remember_me">Запомнить меня</string>
+    <string name="forgot_your_password">Забыли пароль?</string>
+    <string name="username">Имя пользователя</string>
+    <string name="app_1">Вливайся в киберспорт!</string>
+    <string name="app_2">Побеждай турниры и достигай высот</string>
+    <string name="app_3">Войдите, чтобы продолжить</string>
+    <string name="lets_go">Погнали</string>
+    <string name="new_user">Новый пользователь? ЗАРЕГИСТРИРУЙСЯ</string>
+    <string name="sign_up">Зарегистрируйтесь, чтобы начать свое новое путешествие</string>
+    <string name="fio">ФИО</string>
+    <string name="email">Почта</string>
+    <string name="log_in">Уже есть аккаунт? Авторизируйся</string>
+    <string name="log_without_reg">Войти без регистрации</string>
+    <string name="my_name">Танырбергенов Тимур</string>
+    <string name="my_name2">танырбергенов_тимур</string>
+    <string name="update">Обновить</string>
+    <string name="plan">План курса</string>
+    <string name="achievements">Достижения</string>
+    <string name="achievements1">Достижения за 6 лет игры</string>
+    <string name="achievements2">Испытание CRL 2018 года - побед 18</string>
+    <string name="achievements3">Испытание CRL 2021 года - побед 17</string>
+    <string name="achievements4">Финиш в топе королевского турнира - место 371, 971</string>
+    <string name="achievements5">Максимальное количество кубков на трех аккаунтов - Тимур I FL 7387, Painkiller 7126, Titan 6752</string>
+    <string name="achievements6">Пройдено классических испытаний - 22</string>
+    <string name="achievements7">Пройдено больших испытаний - 10</string>
+    <string name="achievements8">Выиграно боев - 29466</string>
+    <string name="achievements9">Выиграно карт - 115223</string>
+    <string name="achievements10">Побед в турнирах - 2773</string>
+    <string name="achievements11">Лучший сезон - место 1924</string>
+    <string name="achievements12">Alaman FastCup 2021: Clash Royale#10 2021 года - место 2</string>
+    <string name="achievements13">Alaman Main 2: Clash Royale Playoff 2021 года - место 5,6</string>
+    <string name="achievements14">Alaman Main 1: Clash Royale Playoff 2021 года - место 3</string>
+
+
+
+
+    <string-array name="news_clash_royale">
+
+        <item>Мета деки 2022 года</item>
+        <item>Стартовал 35 сезона</item>
+        <item>Новое испытание</item>
+        <item>Турнир MASTERS CHALLENGE</item>
+
+    </string-array>
+
+    <string-array name="description_clash_royale">
+
+        <item>Опубликовано: 19.03.2022</item>
+        <item>Опубликовано: 02.05.2022</item>
+        <item>Опубликовано: 09.05.2022</item>
+        <item>Опубликовано: 16.05.2022</item>
+
+    </string-array>
+
+    <string-array name="news_clash_royale2">
+
+        <item>Полезная новость</item>
+        <item>Информативная новость</item>
+        <item>Информативная новость</item>
+        <item>киберспортивная новость</item>
+
+    </string-array>
+
+    <string-array name="description_clash_royale2">
+
+        <item>ТОП 3 ЛУЧШИЙ КОЛОД 2022 ГОДА\n\nRam Rage Mega Knight Archer Queen - тежелая колода с отличной атакой и защитой, но в начале игры могут быть трудности.\n\nSudden Death Skeleton King Drill WB - Быстрая колода и c хорошей защитой, только придется делать много заходов атаки для победы.\n\nRG Mother Witch Fisherman - Очень стабильная колода для каждого игрока, с ней можно делать много разных тактик.</item>
+        <item>Clash Royale был заколдован в обновлении 35-го сезона, включая новый контент на тему ведьм, изменения баланса и награды, которые можно заработать.\n\nХэллоуин наступил рано в мобильной стратегии Supercell в реальном времени Clash Royale в обновлении 35-го сезона Bewitched. Этот сезон сосредоточен вокруг легендарной Ведьмы с новым тематическим контентом, который будет доступен как платным, так и бесплатным игрокам.\n\nСезон Bewitched начинается 2 мая 2022 года, так что вы можете начать продвигаться по бесплатной или платной системе уровней, чтобы зарабатывать награды, разрушая башни.</item>
+        <item>Испытание с двойным эликсиром начался.\n\nСобери колоду и играй с ускоренным вдвое эликсиром. 3 поражения - и ты выбываешь, но у тебя все ещё будет шанс продолжить игру.\n\n1 победа - 5000 золота\n2 победа - 4000 золота\n3 победа - 3000 золота\n4 победа - 2000 золота\n5 победа - 1000 золота\n6 победа - сундук с золотом</item>
+        <item>Вчера Бернард Чонг объявил, что в предстоящем соревновании Clash Royale Masters Challenge будет разыграно 50 000 долларов и золотой билет на мировой финал Clash Royale League (CRL) 2022 года. Соревнования стартуют 16 мая.\n\nВ этом году Supercell работает с организаторами турниров сообщества, чтобы раздать золотые билеты на мировой финал. Таким образом будут розданы восемь билетов, а оставшиеся восемь будут распределены на официальном мероприятии Supercell под названием «Шесть недель CRL» в августе.</item>
+
+    </string-array>
+
+    <string-array name="news_csgo">
+
+        <item>Faze Clan выиграли Major 2022</item>
+        <item>Новый кейс Грезы и Кошмары</item>
+
+    </string-array>
+
+    <string-array name="description_csgo">
+
+        <item>Опубликовано: 10.05.2022</item>
+        <item>Опубликовано: 30.05.2022</item>
+
+    </string-array>
+
+    <string-array name="news_csgo2">
+
+        <item>Историческая новость</item>
+        <item>Информативная новость</item>
+
+    </string-array>
+
+    <string-array name="description_csgo2">
+
+        <item>FAZE CLAN ВПЕРВЫЕ В ИСТОРИИ СТАЛА ЧЕМПИОНОМ МЕЙДЖОРА.\n\nАмериканская команда FaZe Clan в финале мажора по CS:GO обыграли NaVi.\n\nМатч завершился со счетом 2:0. FaZe Clan за победу в мажоре получили 500 тысяч долларов, бывшие чемпионы NaVi получат 150 тысяч долларов.\n\nPGL Major Antwerp прошел в Бельгии с 9 по 22 мая.</item>
+        <item>VALVE ВЫПЛАТИТ $100К ЗА КАЖДЫЙ СКИН.\n\nСпустя несколько месяцев после начала конкурса скинов для кейса «Грезы и кошмары» разработчики объявили победителей. За это время пользователи прислали более 15 тысяч раскрасок на оружие в CS:GO, но Valve отобрала лишь 17 из них, которые вскоре появятся в новом ящике. Каждый из создателей скинов-победителей получит по 100 тысяч долларов от разработчиков.\n\nТеперь ящик официально появился в CS:GO.</item>
+
+    </string-array>
+
+    <string-array name="news_fortnite">
+
+        <item>Оби Ван Кеноби в магазине</item>
+        <item>Ивент перед концом сезона</item>
+
+    </string-array>
+
+    <string-array name="description_fortnite">
+
+        <item>Опубликовано: 20.05.2022</item>
+        <item>Опубликовано: 31.05.2022</item>
+
+    </string-array>
+
+    <string-array name="news_fortnite2">
+
+        <item>Крутая новость</item>
+        <item>Информативная новость</item>
+
+    </string-array>
+
+    <string-array name="description_fortnite2">
+
+        <item>СТОЙТЕ ВЫШЕ ВСЕХ В ОБРАЗЕ ОБИ-ВАНА КЕНОБИ В FORTNITE.\n\nСлухи оказались правдой: экипировка Оби-Вана Кеноби, а также украшение на спину «Оби-Ван», кирка, дельтаплан и многое другое появятся в магазине предметов Fortnite в четверг, 27 мая 2022 года, в 03:00 по московскому времени.\n\nХотите испытать свои навыки? Примите участие в Кубке Оби-Вана Кеноби 22 мая и получите доступ к экипировке Оби-Вана Кеноби и украшению на спину до того, как они появится в магазине предметов!</item>
+        <item>«СТОЛКНОВЕНИЕ», СОБЫТИЕ ФИНАЛА СЕЗОНА FORTNITE, СОСТОИТСЯ 4 ИЮНЯ.\n\nСудьба Эпицентра будет решена во время уникального внутриигрового события «СТОЛКНОВЕНИЕ». Режим «СТОЛКНОВЕНИЕ» станет доступен игрокам за 30 минут до начала события.\n\nСобытие «СТОЛКНОВЕНИЕ» начнётся 4 июня, в 23:00 МСК. Принять участие в нём можно только один раз. Создателям контента и игрокам, которые планируют пересматривать свои захватывающие приключения, советуем записать и сохранить видеоролики, поскольку повторы события не будут доступны.</item>
+
+    </string-array>
+
+</resources>
